@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HddNdEZ1kOwgixARVqpbXjfoCd83BEX4oZKTly6qcWCZo81g/pz76jZgCRrxSIK46VQFkGV3rhW8zIs2uiyadg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isil.guler\\source\\repos\\AkbankFinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isil.guler\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\isil.guler\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
